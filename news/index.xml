@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on 小寶優居-首購族首選 安心成家 室內設計品牌</title>
+    <link>http://example.org/news/</link>
+    <description>Recent content in News on 小寶優居-首購族首選 安心成家 室內設計品牌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>news</title>
+      <link>http://example.org/news/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/news/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

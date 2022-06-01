@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>客廳 on 小寶優居-首購族首選 安心成家 室內設計品牌</title>
+    <link>http://example.org/furniture_design/mattress/</link>
+    <description>Recent content in 客廳 on 小寶優居-首購族首選 安心成家 室內設計品牌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/furniture_design/mattress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>吾居床墊系列</title>
+      <link>http://example.org/furniture_design/mattress/bed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/furniture_design/mattress/bed/</guid>
+      <description>全部設計單品關於系統櫃關於家具關於床墊沙發茶几餐桌餐椅/中島椅床組電視櫃衣櫃/收納櫃/中島邊櫃/邊几書桌/工作桌其他設計單品if (window.location.pathname === &#39;/furniture_design/sofa/&#39;) {localStorage.setItem(&#39;assignLink&#39;, &#39;sofa&#39;);}let linkList = document.querySelectorAll(&#34;.design-list .nav-link&#34;);for (let i = 0; i  --吾居床墊系列（標準版/釋壓加強版/彈力加強版）住在自己喜歡的房子，睡在一張舒服的床，這是小寶優居和 ZZ 想給你的最棒成家禮！
+尺寸
+標準單人床（3尺）加大單人床（3.5尺）
+標準雙人床（5尺）加大雙人床（6尺）
+特大雙人床（7尺）
+備註
+床墊厚度為 20 公分
+吾居床墊系列（標準版）不論支撐度、軟硬度、材料密度、舒適層厚度釋壓度、彈性度皆為最適中狀態。各方面皆為最佳平衡，為舒適及耐用的選擇。材質與結構尺寸及價格標準單人床</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 小寶優居-首購族首選 安心成家 室內設計品牌</title>
+    <link>http://example.org/categories/</link>
+    <description>Recent content in Categories on 小寶優居-首購族首選 安心成家 室內設計品牌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lorem</title>
+      <link>http://example.org/categories/lorem/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>http://example.org/categories/programming/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>http://example.org/categories/pseudo/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>http://example.org/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>認識裝修裝潢</title>
+      <link>http://example.org/categories/%E8%AA%8D%E8%AD%98%E8%A3%9D%E4%BF%AE%E8%A3%9D%E6%BD%A2/</link>
+      <pubDate>Fri, 04 Jun 2021 11:52:23 +0800</pubDate>
+      
+      <guid>http://example.org/categories/%E8%AA%8D%E8%AD%98%E8%A3%9D%E4%BF%AE%E8%A3%9D%E6%BD%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>http://example.org/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>http://example.org/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>collection on 小寶優居-首購族首選 安心成家 室內設計品牌</title>
+    <link>http://example.org/collection/</link>
+    <description>Recent content in collection on 小寶優居-首購族首選 安心成家 室內設計品牌</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Feb 2021 13:18:25 +0800</lastBuildDate><atom:link href="http://example.org/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>花磚玄關 無印工業混搭宅｜小寶優居・成家故事</title>
+      <link>http://example.org/collection/17_taiwanese_ping_tile_porch_muji_industrial_mixed_style_house_in_taichung/</link>
+      <pubDate>Tue, 23 Feb 2021 13:18:25 +0800</pubDate>
+      
+      <guid>http://example.org/collection/17_taiwanese_ping_tile_porch_muji_industrial_mixed_style_house_in_taichung/</guid>
+      <description>window.onload = () = { // 直式輪播圖動態更改高度 function changeHeight() { let firstImg = $(&#39;.style_house_sec02_slide div:first-child img&#39;); let firstImgHeight = firstImg.css(&#39;height&#39;); $(&#39;.style_house_sec02_slide .vertical-img&#39;).css(&#34;height&#34;, `${firstImgHeight}`) } changeHeight(); $(window).resize(function () { setTimeout(() = { changeHeight(); }, 500) }); $(&#39;.slide_img&#39;).each(function () { // jquery.each() 循環讀取所有圖片 var height = $(this).height(); var width = $(this).width(); console.log(height) if (height  200) { $(this).css({ &#39;width&#39;: 90 + &#39;%&#39;, &#34;margin&#34;: &#39;auto&#39;, }); } else { $(this).css({ &#34;margin-top&#34;: &#39;30px&#39;, }); } }); $(&#39;.</description>
+    </item>
+    
+  </channel>
+</rss>
